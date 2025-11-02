@@ -16,6 +16,14 @@ This project allows users to create graphs, add edges, and visualize how Dijkstr
 
 ---
 
+## 🚀 **How to Run Locally**
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Prachi-Sharnagat/Dijkstra-Solver-website.git
+2. cd Dijkstra-Solver-website/Dijkstra-solver
+3. Open index.html in your browser.
+
+
 ## ⚙️ **Tech Stack**
 | Component | Technology |
 |------------|-------------|
